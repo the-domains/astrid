@@ -1,0 +1,28 @@
+name: astrid
+favicon: null
+layout_spectrum: 0.0860543034505099
+typography_spectrum: 0.40306864492595196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15605277009308338
+  lightness: 0.6439299259800464
+  saturation: 0.41009484068490565
+  rhythmicContrast: 0.5705844350159168
+purpose: []
