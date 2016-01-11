@@ -1,7 +1,8 @@
 name: astrid
 favicon: null
 layout_spectrum: 0.0860543034505099
-typography_spectrum: 0.40306864492595196
+typography_spectrum: 0.16415
+title: Where I took notes of my favorite food and travel places
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#e3e6d3'
+    - '#a68c53'
+    - '#060606'
+    - '#765630'
+    - '#f8ab00'
   brandStrength: 0.15605277009308338
   lightness: 0.6439299259800464
   saturation: 0.41009484068490565
